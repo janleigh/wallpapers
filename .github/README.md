@@ -6,6 +6,7 @@ this readme sucks
 
 <!--- TITLE --->
 <h1 align="center"> wallpapers </h1>
+<p align="center">My personal wallpaper repository.</p>
 
 ---
 
@@ -22,14 +23,4 @@ this readme sucks
 
    |  Donate With  |                      Address                       |
    | :-----------: | :------------------------------------------------: |
-   |     Ko-fi     |     [Click Here](https://ko-fi.com/M4M272EAY)      |
-   |    PayPal     | [Click Here](https://paypal.me/JanLeighAugustineM) |
-
-
-<!--- LICENSE --->
-## :scroll: <samp>LICENSE</samp>
-   ~~This project is licensed under the...~~ Wait, this project isn't licensed.
-
-<p align="center">
-   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
-</p>
+   |     Ko-fi     |     [Click Here](https://ko-fi.com/janleigh)      |
